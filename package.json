@@ -1,5 +1,5 @@
 {
-  "name": "lastpass",
+  "name": "@pmotard/lastpass",
   "version": "1.0.3",
   "description": "A Lastpass client for Node.js!",
   "main": "./dist/index.js",
@@ -47,5 +47,9 @@
     "plugins": [
       "transform-runtime"
     ]
+  },
+  "directories": {
+    "example": "example",
+    "lib": "lib"
   }
 }
